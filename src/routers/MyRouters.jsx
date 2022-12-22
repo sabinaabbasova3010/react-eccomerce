@@ -13,7 +13,6 @@ const MyRouters = () => {
             <Route path='/' element={<Home/>}></Route>
             <Route path='/about' element={<About/>}></Route>
             <Route path='/aboutus' element={<Aboutus/>}></Route>
-
         </Routes>   
     </Layout>
   )
