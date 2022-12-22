@@ -1,10 +1,9 @@
+import Atropos from 'atropos'
 import React from 'react'
-
 const Home = () => {
   return (
-    <div>
-      
-    </div>
+ <>
+ </>
   )
 }
 
